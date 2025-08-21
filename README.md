@@ -1,4 +1,4 @@
-# Complete Playwright with TypeScript Full Course
+# Complete Playwright with TypeScript Course
 ## [Part01 : Learn Playwright with TypeScript from Scratch](https://www.youtube.com/watch?v=788GvvcfwTY)
   [![Watch the video](https://img.youtube.com/vi/788GvvcfwTY/hqdefault.jpg)](https://www.youtube.com/watch?v=788GvvcfwTY)
 ## [Part02 : Learn Playwright with TypeScript from Scratch](https://www.youtube.com/watch?v=YfRazDhi9Fw)
@@ -28,7 +28,6 @@
 
 - Playwright with Azure DevOps Pipeline Playlist - https://bit.ly/playwright-azure-devops-tutorial
 ===============================================================
-
 - Playwright with Dynamics 365 CRM Application Testing - https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6
 
 
